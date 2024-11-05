@@ -1,0 +1,7 @@
+primeira linha teste
+2
+terceira linha
+3
+aqui tem cifrao $$
+5
+ultima linha
